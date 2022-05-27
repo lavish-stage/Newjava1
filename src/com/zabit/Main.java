@@ -11,7 +11,7 @@ public static void main(String[] args){
 
 // This is a comment. This code or anything within the slashes won't run.
     // this is a way you can help keep track of things or notes to take
-        /*multi line comment where you
+    /*multi line comment where you
         can keep on writing until you
         add another star and slash.
         */
